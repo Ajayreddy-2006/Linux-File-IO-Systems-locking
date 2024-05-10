@@ -1,10 +1,11 @@
-# Name: Piritharaman R
-# Ref no: 212223230148
-
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
 To Write a C program that illustrates files copying and locking
+
+# Name:T.Ajay
+
+# Ref no: 212223230007
 
 # DESIGN STEPS:
 
