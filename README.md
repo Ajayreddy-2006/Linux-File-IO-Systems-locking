@@ -3,10 +3,6 @@ Ex07-Linux File-IO Systems-locking
 # AIM:
 To Write a C program that illustrates files copying and locking
 
-Name:T.Ajay
-
-Ref no: 212223230007
-
 # DESIGN STEPS:
 
 ### Step 1:
@@ -22,6 +18,10 @@ Write the C Program using Linux IO Systems locking
 Execute the C Program for the desired output. 
 
 # PROGRAM:
+
+Name:T.Ajay
+
+Ref no: 212223230007
 
 ## 1.To Write a C program that illustrates files copying 
 ```
